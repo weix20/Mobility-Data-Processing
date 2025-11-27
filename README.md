@@ -57,6 +57,16 @@ All major results are saved as CSV:
 - `distance_stats.csv`  
 
 ---
+### 📌 Final Notebook
+
+The main and most up-to-date analysis is contained in:
+
+**`Analysis_of_U_S_Mobility_Patterns_and_Parallel_Processing.ipynb`**
+
+This notebook includes all final data processing steps, visualizations,
+parallel processing benchmarks, threshold comparisons, and modeling results.
+Users should refer to this file for the complete and polished analysis.
+
 ## 📂 Archive
 
 The `archive/` folder contains earlier versions of the notebooks used in this project.  
