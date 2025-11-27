@@ -57,4 +57,11 @@ All major results are saved as CSV:
 - `distance_stats.csv`  
 
 ---
+## 📂 Archive
+
+The `archive/` folder contains earlier versions of the notebooks used in this project.  
+These files represent intermediate development stages and are **not as complete or polished**  
+as the main analysis notebook. They are kept for reference and version history, but  
+users should rely on the latest notebook in the root directory for the final results.
+
 
